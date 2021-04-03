@@ -43,3 +43,5 @@ Lastly, the blob text is translated from English into Hindi (lines 45-58).
 ## Future Idea
 In this midterm package research project, I showed a very basic implementation of Textblob. Doing research on packages has made me interested in the kinds of things they can accomplish, and it certainly made me much more aware of Textblob's other uses. One popular use (that I played around with but did not use for this project) was the sentiment analysis that Textblob has to offer. If Textblob were to be combined Tweepy, it would be very interesting to do some kind of Twitter Sentiment Analysis with a Raspberry Pi (like the example you provided us in the midterm project). Raspberry Pi is something I played around with this past winter break, and I was aware of its Python capabilities before taking this course. It is certainly very possible for me to create something that connects my knowledge of these packages with some hardware to create a simplistic project for sentiment analysis.
 
+### requirements.txt
+[requirements.txt](https://github.com/ericzliu/Package-Research/files/6251736/requirements.txt)
